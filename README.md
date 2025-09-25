@@ -1,1 +1,1 @@
-# ML-project-2025-
+SVM and Logistic Regression for Wine-Quality prediction.
